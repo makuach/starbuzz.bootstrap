@@ -1,0 +1,199 @@
+body{
+    background-image: url(../images/background2.gif);
+}
+.col-md-12.first, #m{
+    float: left;
+}
+.col-md-12.first, #n{
+    float: right;
+    text-align:right;
+    height: 105px;
+}
+.col-md-12.third{
+    background-image: url(../images/background.gif);
+    padding:15px;
+    text-align:left;
+    margin-bottom: 5px;
+    margin-top: 5px;
+}
+#g,#k{
+    color: gray;
+    text-decoration: none
+}
+#h,#j{
+    color: saddlebrown;
+    text-decoration: none;
+}
+#nav a{
+    color:saddlebrown;
+    text-decoration: none;
+    text-align: left;
+    padding-left:10px;
+    font-size:15;
+    font-weight:bold;
+}
+#q{
+    color:saddlebrown;
+    font-family:calabri;
+
+}
+a #a{
+    text-align:left;
+    display: inline;
+    text-decoration: none;
+    font-weight: bolder;
+}
+.aside{
+    background-image: url(../images/background.gif);
+    padding-top:20px;
+}
+#l{
+    color: gray;
+}
+blockquote{
+    color: saddlebrown;
+    text-align: center;
+}
+.main{
+    background-image: url(../images/background.gif);
+    padding-top:20px;
+    padding-left:10px;
+}
+.article{
+    background-image: url(../images/background.gif);
+    padding-top:20px;
+}
+.col-md-12{
+    height:50px;
+    text-align: center;
+    background-image: url(../images/background2.gif);
+    margin: 0 auto;
+    margin-top: 5px;
+}
+/*************form stylesheet.css*************************design**********/
+.col-sm-12 third{
+    background-image: url(../images/background.gif);
+    width:700px;
+}
+a #a{
+    width:auto;
+    margin: auto;
+    color: brown;
+    text-decoration: none;
+    padding: 10px;
+}
+.input{
+    background-color:white;
+}
+legend{
+    margin-left: 100px;
+}
+form{
+    padding:15px;
+    width: 1000px;
+    margin:0 auto;
+    display: block;
+    background-image: url(../images/background.gif);
+}
+form #comments{
+    width: 500px;
+    background-color: white;
+    height:150px;
+    margin-left:20px;
+}
+h4{
+    margin-left:70px;
+}
+#xx{
+    color:brown;
+    justify-content: center;
+    display: flex;
+    font-weight: bold;
+}
+#zz{
+    color:#000000;
+    justify-content: center;
+    display: flex;
+    font-weight: bold;
+}
+#mut{
+    margin-left:80px;
+    display: flex;
+}
+#bol{
+    margin-left: 50px;
+
+}
+#makuach{
+    margin-left:50px;
+}
+#reath{
+    padding-left:90px;
+    margin-left:90px;
+}
+#center{
+    padding-left:90px;
+    margin-left:90px;
+}
+#chudier{
+    margin-left:175px;
+}
+#riise{
+    width:150px;
+    margin-left: 60px;
+}
+#luang{
+    width:15px;
+    margin-left:120px;
+}
+#amokachi {
+    vertical-align:top;
+    text-align: left;
+    justify-content: space-between;
+}
+#muturi{
+    width:240px;
+    margin-left:60px;
+}
+#chakuotweil{
+    width:200px;
+    margin-left:40px;
+}
+#luangs{
+    width:195px;
+    margin-left:40px;
+}
+#luangaa{
+    width:192px;
+    margin-left:60px;
+}
+#luangp{
+    width:200px;
+    margin-left:45px;
+}
+#luangn{
+    width:200px;
+    margin-left:49px;
+}
+#luango{
+    width:200px;
+    margin-left:70px;
+}
+#luangm{
+    width:200px;
+    margin-left:70px;
+}
+label{
+    text-align:left;
+    /*    justify-content:flex-start;*/
+    display: flex;
+
+}
+footer{
+    text-align: center;
+    background-image: url(../images/background2.gif);
+    margin-top:5px;
+}
+footer #good{
+    color: white;
+}
